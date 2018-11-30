@@ -1,0 +1,17 @@
+body{
+  font-family: "Hobo Std";
+  font-size: 14px;
+  border: 10px 10px 10px 10px;
+}
+
+h1{
+  color:red;
+  text-align: center;
+}
+
+p{
+  padding:2%;
+  display: block;
+  height: 33px;
+  background-repeat: repeat-x;
+}
